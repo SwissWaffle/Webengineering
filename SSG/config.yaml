@@ -1,0 +1,22 @@
+baseURL: "https://webengineering.pages.dev"
+languageCode: "de"
+title: "Remnant2 fanpage"
+#theme: "mein-theme"
+
+# Meta-Daten
+metaDataFormat: "yaml"
+
+# Navigation
+#menu:
+#  main:
+#    - name: "Startseite"
+#      url: "/"
+#      weight: 1
+#    - name: "Über"
+#      url: "/ueber/"
+#      weight: 2
+
+# Einstellungen für die Ausgabe
+params:
+  author: "Dein Name"
+  description: "Eine kurze Beschreibung deiner Website"
