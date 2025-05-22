@@ -7,11 +7,11 @@ title: "Remnant2 fanpage"
 metaDataFormat: "yaml"
 
 # Navigation
-menu:
-  main:
-    - name: "Startseite"
-      url: "/"
-      weight: 1
+#menu:
+#  main:
+#    - name: "Startseite"
+#      url: "/"
+#      weight: 1
 #    - name: "Über"
 #      url: "/ueber/"
 #      weight: 2
