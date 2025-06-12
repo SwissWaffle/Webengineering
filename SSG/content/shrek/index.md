@@ -3,4 +3,4 @@ title: "Shrek"
 ---
 
 BEHOLD...SHREK
-{{< figure src="../../images/SHREK.png" title="Shrek">}}
+![shrek](SHREK.png)
