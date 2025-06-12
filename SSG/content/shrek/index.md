@@ -3,4 +3,4 @@ title: "Shrek"
 ---
 
 BEHOLD...SHREK
-![shrek](SHREK.png)
+<img src="SHREK.png" alt="shrek">
