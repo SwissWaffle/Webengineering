@@ -65,3 +65,8 @@ a:focus {
   outline: 3px solid #ffbf47;
   outline-offset: 4px;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
