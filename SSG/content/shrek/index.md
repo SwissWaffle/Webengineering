@@ -3,4 +3,4 @@ title: "Shrek"
 ---
 
 BEHOLD...SHREK
-![shrek](SHREK.png?width=300)
+![shrek](SHREK.png?width=100)
