@@ -71,6 +71,6 @@ a:focus {
   height: auto;
 }
 
-.shrek .hoverImg {
+.shrek:hover {
   display:none;
 }
