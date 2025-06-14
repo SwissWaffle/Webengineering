@@ -70,3 +70,7 @@ a:focus {
   max-width: 100%;
   height: auto;
 }
+
+.shrek .hoverImg {
+  display:none;
+}
