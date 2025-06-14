@@ -69,9 +69,5 @@ a:focus {
 .shrek {
   width: 500px;
   max-width: 50%;
-  height: auto;
-}
-
-.shrek:hover {
-  display:none;
+  /*height: auto;*/
 }
