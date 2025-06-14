@@ -76,11 +76,15 @@ a:focus {
   height: auto;
 }
 
+.shrek .hoverImg{
+  display:none;
+}
+
 .shrek:hover .baseImg{
   display: none;
 }
 .shrek:hover .hoverImg{
-  display: block
+  display: block;
 }
 /*.shrek:hover .hoverImg{
   display: block;
