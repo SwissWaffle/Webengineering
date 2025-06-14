@@ -8,4 +8,4 @@ title: "Shrek"
 {.shrek}
 
 ![](shrek_open.png)
-{.shrek .imageImg}
+{.shrek .hoverImg}
