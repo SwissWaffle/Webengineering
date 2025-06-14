@@ -66,12 +66,20 @@ a:focus {
   outline-offset: 4px;
 }
 
+.shrek{
+  position: relative;
+  float: left;
+}
+
 .shrek img{
   max-width: 100%;
   height: auto;
 }
 
 .shrek .hoverImg{
+  position: absolute;
+  left: 0;
+  top: 0;
   display: none;
 }
 
