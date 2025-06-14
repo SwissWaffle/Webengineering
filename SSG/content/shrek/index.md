@@ -4,4 +4,5 @@ title: "Shrek"
 
 **BEHOLD...SHREK**
 
-![](shrek_closed.png){.shrek}
+![](shrek_closed.png)
+{.shrek}
