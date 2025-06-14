@@ -5,6 +5,9 @@ title = "Webseite für Projekt von Nicolas Weber und Noah Neuenschwander"
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
 
+[markup.goldmark.parser.attribute]
+  block = true  #allow class setting in md files
+
 [menu]
   [[menu.main]]
     name = "Home"
