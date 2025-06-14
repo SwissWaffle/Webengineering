@@ -6,3 +6,6 @@ title: "Shrek"
 
 ![](shrek_closed.png)
 {.shrek}
+
+![](shrek_open.png)
+{.shrek .imageImg}
