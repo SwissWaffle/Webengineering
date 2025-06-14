@@ -9,3 +9,7 @@ title: "Shrek"
 
 ![](shrek_open.png)
 {.shrek .hoverImg}
+
+Transparency
+opacity
+visiblility
