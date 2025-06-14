@@ -67,7 +67,8 @@ a:focus {
 }
 
 .shrek {
-  max-width: 100%;
+  width: 500px;
+  max-width: 50%;
   height: auto;
 }
 
