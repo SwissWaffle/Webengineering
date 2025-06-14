@@ -76,13 +76,12 @@ a:focus {
   height: auto;
 }
 
-.hoverImg{
-  position: absolute;
-  left: 0;
-  top: 0;
+.shrek:hover .baseImg{
   display: none;
 }
-
+.shrek:hover .hoverImg{
+  display: block
+}
 /*.shrek:hover .hoverImg{
   display: block;
 }*/
