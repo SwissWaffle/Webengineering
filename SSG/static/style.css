@@ -72,6 +72,7 @@ a:focus {
 }
 
 .shrek img{
+  position: absolute;
   max-width: 100%;
   height: auto;
 }
