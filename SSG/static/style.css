@@ -82,9 +82,12 @@ a:focus {
   z-index: 1;
 }
 
+.shrek .hoverImg{
+  display:none;
+  z-index: 0;
+}
+
 .shrek:hover .baseImg{
   display: none;
-}
-.shrek:hover .hoverImg{
-  display: block;
+  visibility: hidden;
 }
