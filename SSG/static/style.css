@@ -73,18 +73,10 @@ a:focus {
 }
 
 .shrek img{
-
   max-width: 100%;
   height: auto;
 }
 
-.shrek .baseImg{
-  display:none;
-  z-index: 0;
-}
-
-
 .shrek:hover .baseImg{
-  display: none;
   visibility: hidden;
 }
