@@ -77,6 +77,6 @@ a:focus {
   height: auto;
 }
 
-.baseImg {
+.baseImg:hover {
   opacity: 0;
 }
