@@ -67,8 +67,9 @@ a:focus {
 }
 
 .shrek{
-  position: absolute;
-  float: left;
+  background-image: url(../content/shrek/shrek_open.png);
+  background-repeat: no-repeat;
+  background-position: left top;
 }
 
 .shrek img{
