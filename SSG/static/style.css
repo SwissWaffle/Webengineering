@@ -79,12 +79,12 @@ a:focus {
 
 .shrek .baseImg{
   display:none;
-  z-index: 1;
+  z-index: 0;
 }
 
 .shrek .hoverImg{
   display:none;
-  z-index: 0;
+  z-index: 1;
 }
 
 .shrek:hover .baseImg{
