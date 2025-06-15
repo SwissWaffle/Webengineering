@@ -67,9 +67,7 @@ a:focus {
 }
 
 .shrek{
-  background-image: url(../content/shrek/shrek_open.png);
-  background-repeat: no-repeat;
-  background-position: left top;
+position: relative;
 }
 
 .shrek img{
@@ -77,6 +75,9 @@ a:focus {
   height: auto;
 }
 
-.baseImg:hover {
+.botImg{
+  position: absolute;
+}
+.topImg:hover {
   opacity: 0;
 }

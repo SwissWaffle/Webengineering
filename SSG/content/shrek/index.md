@@ -5,7 +5,10 @@ title: "Shrek"
 **BEHOLD...SHREK**
 
 ![](shrek_closed.png)
-{.shrek .baseImg}
+{.shrek .topImg}
+
+![](shrek_open.png)
+{.shrek .botImg}
 
 Transparency
 opacity
