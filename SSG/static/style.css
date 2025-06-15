@@ -67,12 +67,12 @@ a:focus {
 }
 
 .shrek{
-  position: relative;
+  position: absolute;
   float: left;
 }
 
 .shrek img{
-  position: absolute;
+
   max-width: 100%;
   height: auto;
 }
