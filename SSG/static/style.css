@@ -72,12 +72,14 @@ a:focus {
 }
 
 .shrek img{
+  position: absolute;
   max-width: 100%;
   height: auto;
 }
 
-.shrek .hoverImg{
+.shrek .baseImg{
   display:none;
+  z-index: 1;
 }
 
 .shrek:hover .baseImg{
@@ -86,6 +88,3 @@ a:focus {
 .shrek:hover .hoverImg{
   display: block;
 }
-/*.shrek:hover .hoverImg{
-  display: block;
-}*/
