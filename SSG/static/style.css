@@ -77,6 +77,6 @@ a:focus {
   height: auto;
 }
 
-.shrek:hover .baseImg{
-  visibility: hidden;
+.baseImg {
+  opacity: 0;
 }
