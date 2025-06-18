@@ -4,8 +4,9 @@ title: "Shrek"
 
 **BEHOLD...SHREK**
 
-![](shrek_closed.png)   ![](shrek_open.png)
-{.shrek .topImg}        {.shrek .botImg}
+![](shrek_closed.png)
+{.shrek .topImg}
+
 Transparency
 opacity
 visiblility
